@@ -1,1 +1,1 @@
-web: ruby app.rb
+web: bin/start-nginx ruby app.rb
